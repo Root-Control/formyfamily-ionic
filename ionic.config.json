@@ -1,0 +1,8 @@
+{
+  "name": "formyfamily",
+  "app_id": "0f4960c6",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
